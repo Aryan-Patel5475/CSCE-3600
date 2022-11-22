@@ -1,0 +1,14 @@
+ls
+pwd
+date
+history -e 1
+who
+alias 1 ls
+alias 2 pwd
+alias 3 cd
+alias 4 date
+access 4
+list
+history -p
+history -c
+exit
